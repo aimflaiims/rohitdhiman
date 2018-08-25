@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 import { withTracker } from 'meteor/react-meteor-data';
 
-export default class Footer extends Component{
+export default class About extends Component{
   render() {
     return (
       <div className="section" id="about">
@@ -12,8 +12,8 @@ export default class Footer extends Component{
               <div className="col-lg-6 col-md-12">
                 <div className="card-body">
                   <div className="h4 mt-0 title">About</div>
-                  <p>Hello! I am Anthony Barnett. Web Developer, Graphic Designer and Photographer.</p>
-                  <p>Creative CV is a HTML resume template for professionals. Built with Bootstrap 4, Now UI Kit and FontAwesome, this modern and responsive design template is perfect to showcase your portfolio, skills and experience. <a href="https://templateflip.com/templates/creative-cv/" target="_blank">Learn More</a></p>
+                  <p>Hello! I am Rohit Dhiman. Web Developer, Graphic Designer and Photographer.</p>
+                  <p>This is my resume and portfolio build on Meteor Stack with React.js, MongoDB and GraphQL.</p>
                 </div>
               </div>
               <div className="col-lg-6 col-md-12">
@@ -25,7 +25,7 @@ export default class Footer extends Component{
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Email:</strong></div>
-                    <div className="col-sm-8">anthony@company.com</div>
+                    <div className="col-sm-8">Rohit@company.com</div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Phone:</strong></div>
