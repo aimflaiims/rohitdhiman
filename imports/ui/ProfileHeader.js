@@ -11,7 +11,7 @@ export default class ProfileHeader extends Component{
             <div className="page-header-image" data-parallax="true" style={{backgroundImage: 'url("images/cc-bg-1.jpg")'}} />
             <div className="container">
               <div className="content-center">
-                <div className="cc-profile-image"><a href="#"><img src="images/anthony.jpg" alt="Image" /></a></div>
+                <div className="cc-profile-image"><a href="#"><img src="images/rohit.jpg" alt="Image" /></a></div>
                 <div className="h2 title">Rohit Dhiman</div>
                 <p className="category text-white">Web Developer, Graphic Designer,  Photographer</p><a className="btn btn-primary smooth-scroll mr-2" href="#contact" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Hire Me</a><a className="btn btn-primary" href="#" data-aos="zoom-in" data-aos-anchor="data-aos-anchor">Download CV</a>
               </div>
