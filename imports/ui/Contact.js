@@ -59,9 +59,9 @@ export default class Contact extends Component{
                           <p className="mb-0"><strong>Address </strong></p>
                           <p className="pb-2">House No. 327, Sector 15, Panchkulla, Haryana, India</p>
                           <p className="mb-0"><strong>Phone</strong></p>
-                          <p className="pb-2">+91-7018586763</p>
+                          <p className="pb-2"><a href="tel:+91-7018586763">+91-7018586763</a></p>
                           <p className="mb-0"><strong>Email</strong></p>
-                          <p>errohitdhiman@hotmail.com</p>
+                          <p><a href="mailto:errohitdhiman@hotmail.com" target="_top">errohitdhiman@hotmail.com</a></p>
                         </div>
                       </div>
                     </div>

@@ -25,11 +25,11 @@ export default class About extends Component{
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Email:</strong></div>
-                    <div className="col-sm-8">errohitdhiman@hotmail.com</div>
+                    <div className="col-sm-8"><a href="mailto:errohitdhiman@hotmail.com" target="_top">errohitdhiman@hotmail.com</a></div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Phone:</strong></div>
-                    <div className="col-sm-8">+91-7018586763</div>
+                    <div className="col-sm-8"><a href="tel:+91-7018586763">+91-7018586763</a></div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Address:</strong></div>
