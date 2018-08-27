@@ -23,7 +23,7 @@ export default class Reference extends Component{
                       <p className="category">CEO / WEBM</p>
                     </div>
                     <div className="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                      <p> </p>
                     </div>
                   </div>
                 </div>
@@ -34,7 +34,7 @@ export default class Reference extends Component{
                       <p className="category">CEO / Creativem</p>
                     </div>
                     <div className="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                      <p> </p>
                     </div>
                   </div>
                 </div>
@@ -45,7 +45,7 @@ export default class Reference extends Component{
                       <p className="category">CEO / Webnote</p>
                     </div>
                     <div className="col-lg-10 col-md-9">
-                      <p> Habitasse venenatis commodo tempor eleifend arcu sociis sollicitudin ante pulvinar ad, est porta cras erat ullamcorper volutpat metus duis platea convallis, tortor primis ac quisque etiam luctus nisl nullam fames. Ligula purus suscipit tempus nascetur curabitur donec nam ullamcorper, laoreet nullam mauris dui aptent facilisis neque elementum ac, risus semper felis parturient fringilla rhoncus eleifend.</p>
+                      <p> </p>
                     </div>
                   </div>
                 </div>
