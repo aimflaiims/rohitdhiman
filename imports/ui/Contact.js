@@ -16,7 +16,7 @@ export default class Contact extends Component{
                     <div className="row">
                       <div className="col-md-6">
                         <div className="card-body">
-                          <form action="https://formspree.io/your@email.com" method="POST">
+                          <form action="https://formspree.io/errohitdhiman@hotmail.com" method="POST">
                             <div className="p pb-3"><strong>Feel free to contact me </strong></div>
                             <div className="row mb-3">
                               <div className="col">
@@ -57,11 +57,11 @@ export default class Contact extends Component{
                       <div className="col-md-6">
                         <div className="card-body">
                           <p className="mb-0"><strong>Address </strong></p>
-                          <p className="pb-2">140, City Center, New York, U.S.A</p>
+                          <p className="pb-2">House No. 327, Sector 15, Panchkulla, Haryana, India</p>
                           <p className="mb-0"><strong>Phone</strong></p>
-                          <p className="pb-2">+1718-111-0011</p>
+                          <p className="pb-2">+91-7018586763</p>
                           <p className="mb-0"><strong>Email</strong></p>
-                          <p>anthony@company.com</p>
+                          <p>errohitdhiman@hotmail.com</p>
                         </div>
                       </div>
                     </div>

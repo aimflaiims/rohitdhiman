@@ -25,19 +25,19 @@ export default class About extends Component{
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Email:</strong></div>
-                    <div className="col-sm-8">Rohit@company.com</div>
+                    <div className="col-sm-8">errohitdhiman@hotmail.com</div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Phone:</strong></div>
-                    <div className="col-sm-8">+1718-111-0011</div>
+                    <div className="col-sm-8">+91-7018586763</div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Address:</strong></div>
-                    <div className="col-sm-8">140, City Center, New York, U.S.A</div>
+                    <div className="col-sm-8">House No. 327, Sector 15, Panchkulla, Haryana, India</div>
                   </div>
                   <div className="row mt-3">
                     <div className="col-sm-4"><strong className="text-uppercase">Language:</strong></div>
-                    <div className="col-sm-8">English, German, French</div>
+                    <div className="col-sm-8">English, Hindi, Punjabi</div>
                   </div>
                 </div>
               </div>
