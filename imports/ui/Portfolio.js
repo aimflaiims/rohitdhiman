@@ -65,13 +65,6 @@ export default class Portfolio extends Component{
                           <div className="h4">Abaco</div>
                           <p>Web Development</p>
                         </figcaption>
-                      </figure></a></div>
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
-                      <figure className="cc-effect"><img src="images/project-4.jpg" alt="Image" />
-                        <figcaption>
-                          <div className="h4">Aurora</div>
-                          <p>Web Development</p>
-                        </figcaption>
                       </figure></a>
                     </div>
 
