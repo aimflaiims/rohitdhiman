@@ -71,7 +71,7 @@ export default class Index  extends Component{
               {this.renderPortfolio()}
               {this.renderExperience()}
               {this.renderEducation()}
-              {this.renderReference()}
+              {/* {this.renderReference()} */}
               {this.renderContact()}
           </div>
         </div>
