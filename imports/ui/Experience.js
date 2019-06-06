@@ -76,7 +76,7 @@ export default class Experience extends Component{
               </div>
             </div>
           </div>
-          <div className="card">
+          {/* <div className="card">
             <div className="row">
               <div className="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset={50} data-aos-duration={500}>
                 <div className="card-body cc-experience-header">
@@ -91,7 +91,7 @@ export default class Experience extends Component{
                 </div>
               </div>
             </div>
-          </div>
+          </div> */}
           <div className="card">
             <div className="row">
               <div className="col-md-3 bg-primary" data-aos="fade-right" data-aos-offset={50} data-aos-duration={500}>
