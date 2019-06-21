@@ -41,7 +41,7 @@ export default class Portfolio extends Component{
                   </div>
                   <div className="col-md-6">
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://pareaonline.com/" target="_blank">
-                        <figure className="cc-effect"><img src="images/project-3.jpg" alt="Image" />
+                        <figure className="cc-effect"><img src="images/parea.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">Parea Online</div>
                             <p>MLM Business Portal</p>
