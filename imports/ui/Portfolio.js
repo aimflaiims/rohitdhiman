@@ -44,14 +44,14 @@ export default class Portfolio extends Component{
                         <figure className="cc-effect"><img src="images/project-3.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">Parea Online</div>
-                            <p>Web Development</p>
+                            <p>MLM Business Portal</p>
                           </figcaption>
                         </figure></a></div>
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://app-aurora.com/pin/">
                         <figure className="cc-effect"><img src="images/project-4.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">Aurora</div>
-                            <p>Web Development</p>
+                            <p>Pinterest Martketing Tool</p>
                           </figcaption>
                         </figure></a>
                     </div>
@@ -59,11 +59,19 @@ export default class Portfolio extends Component{
                   </div>
 
                   <div className="col-md-6">
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="#web-development">
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="http://206.189.185.6/">
                       <figure className="cc-effect"><img src="images/project-3.jpg" alt="Image" />
                         <figcaption>
                           <div className="h4">Abaco</div>
-                          <p>Web Development</p>
+                          <p>Youtube Marketing Tool</p>
+                        </figcaption>
+                      </figure></a>
+                    </div>
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://www.globalfitness.com/">
+                      <figure className="cc-effect"><img src="images/globalfitness.png" alt="Image" />
+                        <figcaption>
+                          <div className="h4">Global Fitness</div>
+                          <p>E-Commerce Site</p>
                         </figcaption>
                       </figure></a>
                     </div>
