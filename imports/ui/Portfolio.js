@@ -47,7 +47,7 @@ export default class Portfolio extends Component{
                             <p>MLM Business Portal</p>
                           </figcaption>
                         </figure></a></div>
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://app-aurora.com/pin/">
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://app-aurora.com/pin/" target="_blank">
                         <figure className="cc-effect"><img src="images/project-4.jpg" alt="Image" />
                           <figcaption>
                             <div className="h4">Aurora</div>
@@ -59,7 +59,7 @@ export default class Portfolio extends Component{
                   </div>
 
                   <div className="col-md-6">
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="http://206.189.185.6/">
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="http://206.189.185.6/" target="_blank">
                       <figure className="cc-effect"><img src="images/project-3.jpg" alt="Image" />
                         <figcaption>
                           <div className="h4">Abaco</div>
@@ -67,7 +67,10 @@ export default class Portfolio extends Component{
                         </figcaption>
                       </figure></a>
                     </div>
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://www.globalfitness.com/">
+
+                  </div>
+                  <div className="col-md-6">
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://www.globalfitness.com/" target="_blank">
                       <figure className="cc-effect"><img src="images/globalfitness.png" alt="Image" />
                         <figcaption>
                           <div className="h4">Global Fitness</div>
