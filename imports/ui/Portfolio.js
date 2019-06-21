@@ -25,14 +25,14 @@ export default class Portfolio extends Component{
                 <div className="row">
                   <div className="col-md-6">
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://crazy-snake.herokuapp.com/" target="_blank">
-                        <figure className="cc-effect"><img src="images/project-1.jpg" alt="Image" />
+                        <figure className="cc-effect"><img src="images/crazy-snake.png" alt="Image" />
                           <figcaption>
                             <div className="h4">Crazy Snake</div>
                             <p>React App</p>
                           </figcaption>
                         </figure></a></div>
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://devconnector-beta.herokuapp.com/" target="_blank">
-                        <figure className="cc-effect"><img src="images/project-2.jpg" alt="Image" />
+                        <figure className="cc-effect"><img src="images/devcon.png" alt="Image" />
                           <figcaption>
                             <div className="h4">Dev Connector</div>
                             <p>MERN Stack App</p>
@@ -41,14 +41,14 @@ export default class Portfolio extends Component{
                   </div>
                   <div className="col-md-6">
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://pareaonline.com/" target="_blank">
-                        <figure className="cc-effect"><img src="images/parea.jpg" alt="Image" />
+                        <figure className="cc-effect"><img src="images/parea.png" alt="Image" />
                           <figcaption>
                             <div className="h4">Parea Online</div>
                             <p>MLM Business Portal</p>
                           </figcaption>
                         </figure></a></div>
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://app-aurora.com/pin/" target="_blank">
-                        <figure className="cc-effect"><img src="images/project-4.jpg" alt="Image" />
+                        <figure className="cc-effect"><img src="images/aurora.png" alt="Image" />
                           <figcaption>
                             <div className="h4">Aurora</div>
                             <p>Pinterest Martketing Tool</p>
@@ -60,7 +60,7 @@ export default class Portfolio extends Component{
 
                   <div className="col-md-6">
                     <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="http://206.189.185.6/" target="_blank">
-                      <figure className="cc-effect"><img src="images/project-3.jpg" alt="Image" />
+                      <figure className="cc-effect"><img src="images/abaco.png" alt="Image" />
                         <figcaption>
                           <div className="h4">Abaco</div>
                           <p>Youtube Marketing Tool</p>
