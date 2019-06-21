@@ -61,22 +61,22 @@ export default class Portfolio extends Component{
                   </div>
 
                   <div className="col-md-6">
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="http://206.189.185.6/" target="_blank">
-                      <figure className="cc-effect"><img src="images/abaco.png" alt="Image" />
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://crazy-snake.herokuapp.com/" target="_blank">
+                      <figure className="cc-effect"><img src="images/crazy-snake.png" alt="Image" />
                         <figcaption>
-                          <div className="h4">Abaco</div>
-                          <p>Youtube Marketing Tool</p>
+                          <div className="h4">Crazy Snake</div>
+                          <p>React App</p>
                         </figcaption>
                       </figure></a>
                     </div>
 
                   </div>
                   <div className="col-md-6">
-                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://crazy-snake.herokuapp.com/" target="_blank">
-                      <figure className="cc-effect"><img src="images/crazy-snake.png" alt="Image" />
+                    <div className="cc-porfolio-image img-raised" data-aos="fade-up" data-aos-anchor-placement="top-bottom"><a href="https://www.globalfitness.com/" target="_blank">
+                      <figure className="cc-effect"><img src="images/globalfitness.png" alt="Image" />
                         <figcaption>
-                          <div className="h4">Crazy Snake</div>
-                          <p>React App</p>
+                          <div className="h4">Global Fitness</div>
+                          <p>E-Commerce Site</p>
                         </figcaption>
                       </figure></a>
                     </div>
