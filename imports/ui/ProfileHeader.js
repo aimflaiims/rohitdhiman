@@ -22,7 +22,9 @@ export default class ProfileHeader extends Component{
                   <a className="btn btn-default btn-round btn-lg btn-icon" href="https://www.fb.com/aimflaiims" target="_blank" rel="tooltip" title="Follow me on Facebook"><i className="fa fa-facebook" /></a>
                   <a className="btn btn-default btn-round btn-lg btn-icon" href="https://www.twitter.com/aimflaiims" target="_blank" rel="tooltip" title="Follow me on Twitter"><i className="fa fa-twitter" /></a>
                   <a className="btn btn-default btn-round btn-lg btn-icon" href="https://plus.google.com/+RohitDhimanPro" target="_blank" rel="tooltip" title="Follow me on Google+"><i className="fa fa-google-plus" /></a>
-                  <a className="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/aimflaiims/" target="_blank" rel="tooltip" title="Follow me on Instagram"><i className="fa fa-instagram" /></a></div>
+                  <a className="btn btn-default btn-round btn-lg btn-icon" href="https://www.instagram.com/aimflaiims/" target="_blank" rel="tooltip" title="Follow me on Instagram"><i className="fa fa-instagram" /></a>
+                  <a className="btn btn-default btn-round btn-lg btn-icon" href="https://medium.com/@errohitdhiman" target="_blank" rel="tooltip" title="Follow me on Medium"><i className="fa fa-medium" /></a>
+                </div>
               </div>
             </div>
           </div>
